@@ -1,3 +1,3 @@
-##Whats the PiFrost Project?
+Whats the PiFrost Project?
 
-##What do we need to implement this project?
+What do we need to implement this project?
