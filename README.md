@@ -73,7 +73,7 @@ Download the Openswan configuration file for the Raspberry Pi.
 
 ![alt text](images/download-config.png)
 
-The configurationw will look like this:
+The configuration will look like this:
 
 ```
 conn Tunnel1
