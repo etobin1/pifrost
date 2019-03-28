@@ -1,5 +1,5 @@
 # PiFrost
-This project provides instruction on how to connect an on-premises network to an AWS VPC leveraging a Raspberry Pi as the Customer Gateway and a Transit Gateway the terminating endpoint in AWS. Included are steps to establish the VPN connection and a bill of materials for the Raspberry Pi.
+PiFrost is a solution, a device that can facilitate the demonstration of VPN connections to AWS environment, including transit gateway. This project provides instruction on how to connect an on-premises network to an AWS VPC leveraging a Raspberry Pi as the Customer Gateway and a Transit Gateway the terminating endpoint in AWS. Included are steps to establish the VPN connection and a bill of materials for the Raspberry Pi.
 
 ![alt text](images/pifrost-arch.png)
 
