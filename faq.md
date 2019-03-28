@@ -1,3 +1,5 @@
+# Frequently Asked Questions?
+
 Whats the PiFrost Project?
 
 Is there a cost associated for implementing this project?
